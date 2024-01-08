@@ -55,7 +55,7 @@ Welcome to M.A.G - The Voice Assistant, your personal Android app companion that
 <br>
    <img src="images/p2.jpeg" width="300" height=auto />
 <br>
-7. **Enjoy Your Assistant:** Start using M.A.G for a hands-free and efficient experience in your daily tasks.
+7. Enjoy Your Assistant:Start using M.A.G for a hands-free and efficient experience in your daily tasks.
 
 ## Troubleshooting:
 
