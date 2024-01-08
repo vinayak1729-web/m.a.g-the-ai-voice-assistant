@@ -1,4 +1,4 @@
-# M.A.G - The Voice Assistant
+# M.A.G - The Voice Assistant App
 
 Welcome to M.A.G - The Voice Assistant, your personal Android app companion that assists you with a variety of tasks using voice commands. This app is designed to make your daily activities easier and more convenient. Please follow the guide below to get started and make the most out of M.A.G.
 
