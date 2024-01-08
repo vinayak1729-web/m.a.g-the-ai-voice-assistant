@@ -40,21 +40,21 @@ Welcome to M.A.G - The Voice Assistant, your personal Android app companion that
    
    
    <img src="images/2.jpeg" width="300" height=auto />
-   ![commands](images/3.jpeg)
+   <br>
   
    <img src="images/3.jpeg" width="300" height=auto />
-  
+  <br>
    
    <img src="images/4.jpeg" width="300" height=auto />
   
-   
+   <br>
    <img src="images/f.jpeg" width="300" height=auto />
-   
+   <br>
    <img src="images/p1.jpeg" width="300" height=auto />
   
-
+<br>
    <img src="images/p2.jpeg" width="300" height=auto />
-
+<br>
 7. **Enjoy Your Assistant:** Start using M.A.G for a hands-free and efficient experience in your daily tasks.
 
 ## Troubleshooting:
