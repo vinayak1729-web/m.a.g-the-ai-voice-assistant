@@ -24,8 +24,8 @@ Welcome to M.A.G - The Voice Assistant, your personal Android app companion that
 
 3. **Launching the App:** Open the app and grant any additional permissions required within the app.
 
-   ![Launch](images/1.jpeg)
 
+   <img src="images/1.jpeg" width="400" />
 4. **Command Examples:**
    - "How are you?"
    - "What is the weather like today?"
