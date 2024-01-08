@@ -18,15 +18,17 @@ Welcome to M.A.G - The Voice Assistant, your personal Android app companion that
 
 1. **Permissions:** Navigate to your device settings and grant all the required permissions for M.A.G to function properly.
 
-   ![Permissions](images/per.jpeg)
+  
+   
+   <img src="images/per.jpeg" width="300" height=auto />
 
-2. **Installation:** Download and install M.A.G from the Google Play Store or your preferred app store.
+3. **Installation:** Download and install M.A.G from the Google Play Store or your preferred app store.
 
-3. **Launching the App:** Open the app and grant any additional permissions required within the app.
+4. **Launching the App:** Open the app and grant any additional permissions required within the app.
 
 
-   <img src="images/1.jpeg" width="400" />
-4. **Command Examples:**
+   <img src="images/1.jpeg" width="300" height=auto />
+5. **Command Examples:**
    - "How are you?"
    - "What is the weather like today?"
    - "Where is the nearest coffee shop?"
@@ -35,15 +37,25 @@ Welcome to M.A.G - The Voice Assistant, your personal Android app companion that
    - "What is your name? What does it mean?"
    - "Open facebook? or any app on mobile"
 
-   ![commands](images/2.jpeg)
+   
+   
+   <img src="images/2.jpeg" width="300" height=auto />
    ![commands](images/3.jpeg)
-   ![commands](images/4.jpeg)
-   ![commands](images/f.jpeg)
-   ![commands](images/p1.jpeg)
-   ![commands](images/p2.jpeg)
+  
+   <img src="images/3.jpeg" width="300" height=auto />
+  
+   
+   <img src="images/4.jpeg" width="300" height=auto />
+  
+   
+   <img src="images/f.jpeg" width="300" height=auto />
+   
+   <img src="images/p1.jpeg" width="300" height=auto />
+  
 
+   <img src="images/p2.jpeg" width="300" height=auto />
 
-5. **Enjoy Your Assistant:** Start using M.A.G for a hands-free and efficient experience in your daily tasks.
+7. **Enjoy Your Assistant:** Start using M.A.G for a hands-free and efficient experience in your daily tasks.
 
 ## Troubleshooting:
 
